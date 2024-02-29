@@ -1,7 +1,9 @@
 # **ISQTB Certified Tester Foundation Level Syllabus rewrite**
 
 *by: Trygve Taranger*
+
 *based on: V4.0*
+
 *[Original available here](https://www.istqb.org/certifications/certified-tester-foundation-level)*
 
 When going over the ISTQB CTFL syllabus, I did not like how it was organized. I figured that it could improve my learning outcomes as well as possibly assist others with a secondary source that is organized a little differently.
