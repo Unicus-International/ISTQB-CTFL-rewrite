@@ -22,4 +22,4 @@ The same goes for needlessly complicated words that are not part of the test-rel
 
 Thank you for reading. I hope you will find this work useful!
 
-You can start from *[here](/0/0.1.Core_Concepts.md)*
+You can start from *[here](/0/1.Core_Concepts.md)*
