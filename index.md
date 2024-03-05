@@ -3,7 +3,7 @@
 * ***[README](/README.md)* NB! Start here!**
 * *[0.1: Core Concepts](/0/1.Core_Concepts.md)*
 * *[0.2: Principles of Testing](/0/2.Principles_of_Testing.md)*
-* *[0.3: Essential Skills](/0/3.Test_LifeCycles.md)*
+* *[0.3: Essential Skills](/0/3.Essential_Skills.md)*
 * *[0.4: Test LifeCycle](/0/4.Test_LifeCycle.md)*
 
 * ***[1.0: Preparatory Phase Overview](/1/0.Preparatory_Phase_Overview.md)***
