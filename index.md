@@ -13,6 +13,8 @@
         * *[1.1.3: Test Assumptions](/1/1/3.Test_Assumptions.md)*
         * *[1.1.4: Concerned Parties](/1/1/4.Concerned_Parties.md)*
         * *[1.1.5: Communication Plan](/1/1/5.Communication_Plan.md)*
+        * *[1.1.6: Test Approach](/1/1/6.Test_Approach.md)*
+        * *[1.1.7: Test Schedule](/1/1/7.Test_Schedule.md)*
     * ***[1.2: TLC Roles](/1/2.TLC_Roles.md)***
     * ***[1.3: Test Analysis](/1/3.Test_Analysis.md)***
     * ***[1.4: Test Monitoring](/1/4.Test_Monitoring.md)***
