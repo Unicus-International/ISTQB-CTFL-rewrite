@@ -16,14 +16,15 @@
     * *[1.1.6: Test Approach](/1/1/6.Test_Approach.md)*
     * *[1.1.7: Test Schedule](/1/1/7.Test_Schedule.md)*
   * ***[1.2: TLC Roles](/1/2.TLC_Roles.md)***
-  * ***[1.3: Test Analysis](/1/3.Test_Analysis.md)***
-    * *[1.3.1: Test Types](/1/3/1.Test_Types.md)*
-    * *[1.3.2: Test Techniques](/1/3/2.Test_Techniques.md)*
-      * *[1.3.2.1: Black-box Testing](/1/3/2/1.Black_Box_Testing.md)*
-      * *[1.3.2.2: White-box Testing](/1/3/2/2.White_Box_Testing.md)*
-      * *[1.3.2.3: Experience-based Testing](/1/3/2/3.Experience_Based_Testing.md)*
-  * ***[1.4: Test Monitoring](/1/4.Test_Monitoring.md)***
+  * ***[1.3: Test Monitoring](/1/3.Test_Monitoring.md)***
+  * ***[1.4: Test Analysis](/1/4.Test_Analysis.md)***
+    * *[ 1.4.1: Test Types](/1/4/1.Test_Types.md)*
+    * *[ 1.4.2: Test Techniques](/1/4/2.Test_Techniques.md)*
+      * *[ 1.4.2.1: Black-box Testing](/1/4/2/1.Black_Box_Testing.md)*
+      * *[ 1.4.2.2: White-box Testing](/1/4/2/2.White_Box_Testing.md)*
+      * *[ 1.4.2.3: Experience-based Testing](/1/4/2/3.Experience_Based_Testing.md)*
 
 * ***[2.0: Test-execution Phase Overview](/2/0.Test-execution_Phase_Overview.md)***
+
 
 * ***[3.0: Closing Phase Overview](/3/0.Closing_Phase_Overview.md)***
