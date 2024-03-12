@@ -29,6 +29,6 @@
   * ***[2.2: Test Implementation](/2/2.Test_Implementation.md)***
   * ***[2.3: Test Execution](/2/3.Test_execution.md)***
 
-* ***[3.0: Closing Phase Overview](/3/0.Closing_Phase_Overview.md)***
+* ***[3.0: Reporting Phase Overview](/3/0.Reporting_Phase_Overview.md)***
   * ***[3.1: Defect Management](/3/1.Defect_Management.md)***
   * ***[3.2: Test Completion](/3/2.Test_Completion.md)***
