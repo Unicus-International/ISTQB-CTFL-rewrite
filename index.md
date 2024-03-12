@@ -25,6 +25,10 @@
       * *[ 1.4.2.3: Experience-based Testing](/1/4/2/3.Experience_Based_Testing.md)*
 
 * ***[2.0: Test-execution Phase Overview](/2/0.Test-execution_Phase_Overview.md)***
-
+  * ***[2.1: Test Design](/2/1.Test_Design.md)***
+  * ***[2.2: Test Implementation](/2/2.Test_Implementation.md)***
+  * ***[2.3: Test Execution](/2/3.Test_execution.md)***
 
 * ***[3.0: Closing Phase Overview](/3/0.Closing_Phase_Overview.md)***
+  * ***[3.1: Defect Management](/3/1.Defect_Management.md)***
+  * ***[3.2: Test Completion](/3/2.Test_Completion.md)***
